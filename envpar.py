@@ -21,4 +21,4 @@ def do_running_software():
 	return services.running_software()
 
 if __name__ == '__main__':
-	app.run(host='localhost', port=8081)
+	app.run(host='localhost', port=8082)
